@@ -19,6 +19,7 @@ I’m a full-stack web lover. Pure CSS fan, semantic warrior and CS VSU student.
 - Docker
 - Nginx
 - Jest
+- CI/CD
 - GitHub Actions
 
 ## 🧪 Also worked with:
