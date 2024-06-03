@@ -2,26 +2,27 @@
 
 # Artyom Pustovalov
 
-I’m a full-stack web lover. Pure CSS fan, semantic warrior and CS VSU student. Also in love with retro cars, drift championships and sneakers.
+I’m a full-stack web lover. Pure CSS fan, semantic warrior and CS VSU student. Also in love with retro cars, drift championships and techologies.
 
 ✉️ Let`s keep in touch! Send me an email at [simplyartempust@gmail.com](mailto:simplyartempust@gmail.com)
 
 ## ⚒️ My skills:
 - JavaScript
 - TypeScript
-- HTML & CSS
-- SCSS
-- React
+- HTML, CSS, SCSS, LESS
+- Redux (Toolkit, Query, Thunk)
+- CI/CD (GH Actions, GitLab CI)
+- Webpack, Vite, Gulp
+- Material UI, Antd, Chakra
 - Next.js
-- Node.js
+- React
 - Nest.js
-- Gulp
+- Strapi
 - Docker
 - Nginx
 - Jest
-- CI/CD
-- GitHub Actions
 
 ## 🧪 Also worked with:
+- Effector
+- Recharts
 - Java
-- Python
